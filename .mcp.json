@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "tarefas": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "meu-mcp-server/server.mjs"
+      ],
+      "env": {}
+    }
+  }
+}
